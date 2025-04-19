@@ -777,7 +777,7 @@ input::-webkit-input-placeholder {
             </div>
             </section>
             <!--导航分类范例1，请根据自己的需求进行修改-->
-          <section class="item card-box" id="row-1">
+            <section class="item card-box" id="row-1">
             <div class="container-fluid">
                 <div class="row">
                     <div class="item-tit">
@@ -787,6 +787,36 @@ input::-webkit-input-placeholder {
                     <div class="clearfix two-list-box">
                         <div class="col-md-3 col-sm-3 col-xs-6">
                             <a href="https://www.v2ex.com/" class="card-link" target="_blank">
+                            <div class="card-tit">V2EX</div>
+                            <div class="card-desc">V2EX- The way to EXplore.</div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://www.zhihu.com/explore" class="card-link" target="_blank">
+                            <div class="card-tit">ZHIHU</div>
+                            <div class="card-desc">Zhihu hot topics</div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://github.com/MELCHIOR-1" class="card-link" target="_blank">
+                            <div class="card-tit"> My github</div>
+                            <div class="card-desc">Melchior-1</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </section>
+             <section class="item card-box" id="row-2">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="item-tit">
+                        <strong>Common</strong>
+                    </div>
+                    <!--获取内容列表-->
+                    <div class="clearfix two-list-box">
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://chat.deepseek.com/" class="card-link" target="_blank">
                             <div class="card-tit">V2EX</div>
                             <div class="card-desc">V2EX- The way to EXplore.</div>
                             </a>
@@ -949,8 +979,8 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NjU0OTI0LDg3MTQzOTI0NCwzOTMwMz
-Y3OTAsMTk2NDE5NzI0LDEwMDc4NDY5NDAsMTE4NDQ2ODA4NCwx
-Mzk5NTI3OTY5LC0xOTg0Njg5NTc3LDY4NzY4MTgxNCwxNzY5Nz
-YyMjMxLC02NjY3NjE4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTM5MjE4NjAsODcxNDM5MjQ0LDM5Mz
+AzNjc5MCwxOTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0
+LDEzOTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Nj
+k3NjIyMzEsLTY2Njc2MTgzNF19
 -->
