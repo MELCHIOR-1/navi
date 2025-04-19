@@ -835,9 +835,9 @@ input::-webkit-input-placeholder {
                             </a>
                         </div>
                          <div class="col-md-3 col-sm-3 col-xs-6">
-                            <a href="https://ai-bot.cn/" class="card-link" target="_blank">
-                            <div class="card-tit"> Ai-bot</div>
-                            <div class="card-desc">AI工具集</div>
+                            <a href="https://devv.ai/zh" class="card-link" target="_blank">
+                            <div class="card-tit"> devv_</div>
+                            <div class="card-desc">最懂程序员的新一代 AI 搜索引擎</div>
                             </a>
                         </div>
                     </div>
@@ -986,9 +986,9 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjExMDI3NzcsMjQ3MTgzNzAsLTQ3Mz
-Q1ODQ5Niw5MDU0MTA5NTAsODcxNDM5MjQ0LDM5MzAzNjc5MCwx
-OTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0LDEzOTk1Mj
-c5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Njk3NjIyMzEs
-LTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbLTcxNTg0NDUwOSwyNDcxODM3MCwtNDczND
+U4NDk2LDkwNTQxMDk1MCw4NzE0MzkyNDQsMzkzMDM2NzkwLDE5
+NjQxOTcyNCwxMDA3ODQ2OTQwLDExODQ0NjgwODQsMTM5OTUyNz
+k2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4MTQsMTc2OTc2MjIzMSwt
+NjY2NzYxODM0XX0=
 -->
