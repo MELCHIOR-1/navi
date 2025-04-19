@@ -834,6 +834,12 @@ input::-webkit-input-placeholder {
                             <div class="card-desc">AI工具集</div>
                             </a>
                         </div>
+                         <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://ai-bot.cn/" class="card-link" target="_blank">
+                            <div class="card-tit"> Ai-bot</div>
+                            <div class="card-desc">AI工具集</div>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -980,9 +986,9 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MTgzNzAsLTQ3MzQ1ODQ5Niw5MDU0MT
-A5NTAsODcxNDM5MjQ0LDM5MzAzNjc5MCwxOTY0MTk3MjQsMTAw
-Nzg0Njk0MCwxMTg0NDY4MDg0LDEzOTk1Mjc5NjksLTE5ODQ2OD
-k1NzcsNjg3NjgxODE0LDE3Njk3NjIyMzEsLTY2Njc2MTgzNF19
-
+eyJoaXN0b3J5IjpbLTEwNjExMDI3NzcsMjQ3MTgzNzAsLTQ3Mz
+Q1ODQ5Niw5MDU0MTA5NTAsODcxNDM5MjQ0LDM5MzAzNjc5MCwx
+OTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0LDEzOTk1Mj
+c5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Njk3NjIyMzEs
+LTY2Njc2MTgzNF19
 -->
