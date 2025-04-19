@@ -850,7 +850,7 @@ input::-webkit-input-placeholder {
             <div class="container">
                 <div class="rwo">
                     <div class="col-md-12">
-                            Copyright © 2025 Shaw Pan
+                            Copyright © 2025 By Shawpan
                         </p>
                     </div>
                 </div>
@@ -986,7 +986,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM1ODg4MjgsLTcxNTg0NDUwOSwyND
+eyJoaXN0b3J5IjpbLTIwNjM3NzA5NzMsLTcxNTg0NDUwOSwyND
 cxODM3MCwtNDczNDU4NDk2LDkwNTQxMDk1MCw4NzE0MzkyNDQs
 MzkzMDM2NzkwLDE5NjQxOTcyNCwxMDA3ODQ2OTQwLDExODQ0Nj
 gwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4MTQs
