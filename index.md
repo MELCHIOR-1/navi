@@ -811,7 +811,7 @@ input::-webkit-input-placeholder {
             <div class="container-fluid">
                 <div class="row">
                     <div class="item-tit">
-                        <strong>Common</strong>
+                        <strong>AI</strong>
                     </div>
                     <!--获取内容列表-->
                     <div class="clearfix two-list-box">
@@ -979,8 +979,8 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU1NDcsODcxNDM5MjQ0LDM5MzAzNj
-c5MCwxOTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0LDEz
-OTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Njk3Nj
-IyMzEsLTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbLTgxMjE1MjQyNCw4NzE0MzkyNDQsMzkzMD
+M2NzkwLDE5NjQxOTcyNCwxMDA3ODQ2OTQwLDExODQ0NjgwODQs
+MTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4MTQsMTc2OT
+c2MjIzMSwtNjY2NzYxODM0XX0=
 -->
