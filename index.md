@@ -817,8 +817,8 @@ input::-webkit-input-placeholder {
                     <div class="clearfix two-list-box">
                         <div class="col-md-3 col-sm-3 col-xs-6">
                             <a href="https://chat.deepseek.com/" class="card-link" target="_blank">
-                            <div class="card-tit">V2EX</div>
-                            <div class="card-desc">V2EX- The way to EXplore.</div>
+                            <div class="card-tit">DeepSeek</div>
+                            <div class="card-desc">Chat with DeepSeek AI.</div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-6">
@@ -979,8 +979,8 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM5MjE4NjAsODcxNDM5MjQ0LDM5Mz
-AzNjc5MCwxOTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0
-LDEzOTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Nj
-k3NjIyMzEsLTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbLTE0ODU1NDcsODcxNDM5MjQ0LDM5MzAzNj
+c5MCwxOTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0LDEz
+OTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Njk3Nj
+IyMzEsLTY2Njc2MTgzNF19
 -->
