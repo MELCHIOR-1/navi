@@ -752,6 +752,7 @@ input::-webkit-input-placeholder {
             <ul class="scrollcontent">
                 <!--左侧目录，按照需要修改和添加，参考已有的修改名称和href-->
                 <li><a href="#row-1">Common</a></li>
+                <li><a href="#row-2">AI</a></li>
             </ul>
         </div>
     </div>
@@ -979,8 +980,8 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjE1MjQyNCw4NzE0MzkyNDQsMzkzMD
-M2NzkwLDE5NjQxOTcyNCwxMDA3ODQ2OTQwLDExODQ0NjgwODQs
-MTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4MTQsMTc2OT
-c2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbOTA1NDEwOTUwLDg3MTQzOTI0NCwzOTMwMz
+Y3OTAsMTk2NDE5NzI0LDEwMDc4NDY5NDAsMTE4NDQ2ODA4NCwx
+Mzk5NTI3OTY5LC0xOTg0Njg5NTc3LDY4NzY4MTgxNCwxNzY5Nz
+YyMjMxLC02NjY3NjE4MzRdfQ==
 -->
