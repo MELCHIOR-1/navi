@@ -823,9 +823,9 @@ input::-webkit-input-placeholder {
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-6">
-                            <a href="https://www.zhihu.com/explore" class="card-link" target="_blank">
-                            <div class="card-tit">ZHIHU</div>
-                            <div class="card-desc">Zhihu hot topics</div>
+                            <a href="https://iflow.cn/?spm=3e711c3f.7f0cdbb6.0.0.593473e826z3Pm" class="card-link" target="_blank">
+                            <div class="card-tit">iFlow</div>
+                            <div class="card-desc">Xi</div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-6">
@@ -980,8 +980,8 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NDEwOTUwLDg3MTQzOTI0NCwzOTMwMz
-Y3OTAsMTk2NDE5NzI0LDEwMDc4NDY5NDAsMTE4NDQ2ODA4NCwx
-Mzk5NTI3OTY5LC0xOTg0Njg5NTc3LDY4NzY4MTgxNCwxNzY5Nz
-YyMjMxLC02NjY3NjE4MzRdfQ==
+eyJoaXN0b3J5IjpbMjE0MzgwNTI1OSw5MDU0MTA5NTAsODcxND
+M5MjQ0LDM5MzAzNjc5MCwxOTY0MTk3MjQsMTAwNzg0Njk0MCwx
+MTg0NDY4MDg0LDEzOTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3Nj
+gxODE0LDE3Njk3NjIyMzEsLTY2Njc2MTgzNF19
 -->
