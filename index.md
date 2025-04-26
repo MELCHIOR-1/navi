@@ -844,11 +844,11 @@ input::-webkit-input-placeholder {
                 </div>
             </div>
             </section>
-             <section class="item card-box" id="row-2">
+             <section class="item card-box" id="row-3">
             <div class="container-fluid">
                 <div class="row">
                     <div class="item-tit">
-                        <strong>AI</strong>
+                        <strong>Academic</strong>
                     </div>
                     <!--获取内容列表-->
                     <div class="clearfix two-list-box">
@@ -1022,7 +1022,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzAzMzAyNiwtMjA2Mzc3MDk3MywtNz
+eyJoaXN0b3J5IjpbMTQ0Mjk4OTc5MiwtMjA2Mzc3MDk3MywtNz
 E1ODQ0NTA5LDI0NzE4MzcwLC00NzM0NTg0OTYsOTA1NDEwOTUw
 LDg3MTQzOTI0NCwzOTMwMzY3OTAsMTk2NDE5NzI0LDEwMDc4ND
 Y5NDAsMTE4NDQ2ODA4NCwxMzk5NTI3OTY5LC0xOTg0Njg5NTc3
