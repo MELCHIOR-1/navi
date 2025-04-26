@@ -844,6 +844,42 @@ input::-webkit-input-placeholder {
                 </div>
             </div>
             </section>
+             <section class="item card-box" id="row-2">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="item-tit">
+                        <strong>AI</strong>
+                    </div>
+                    <!--获取内容列表-->
+                    <div class="clearfix two-list-box">
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://chat.deepseek.com/" class="card-link" target="_blank">
+                            <div class="card-tit">DeepSeek</div>
+                            <div class="card-desc">Chat with DeepSeek AI.</div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://iflow.cn/?spm=3e711c3f.7f0cdbb6.0.0.593473e826z3Pm" class="card-link" target="_blank">
+                            <div class="card-tit">iFlow</div>
+                            <div class="card-desc">心流AI</div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://ai-bot.cn/" class="card-link" target="_blank">
+                            <div class="card-tit"> Ai-bot</div>
+                            <div class="card-desc">AI工具集</div>
+                            </a>
+                        </div>
+                         <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://devv.ai/zh" class="card-link" target="_blank">
+                            <div class="card-tit"> devv_</div>
+                            <div class="card-desc">最懂程序员的新一代 AI 搜索引擎</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </section>
             
             <!--页脚-->
             <footer class="footer">
@@ -986,9 +1022,9 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM3NzA5NzMsLTcxNTg0NDUwOSwyND
-cxODM3MCwtNDczNDU4NDk2LDkwNTQxMDk1MCw4NzE0MzkyNDQs
-MzkzMDM2NzkwLDE5NjQxOTcyNCwxMDA3ODQ2OTQwLDExODQ0Nj
-gwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4MTQs
-MTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbLTQ0NzAzMzAyNiwtMjA2Mzc3MDk3MywtNz
+E1ODQ0NTA5LDI0NzE4MzcwLC00NzM0NTg0OTYsOTA1NDEwOTUw
+LDg3MTQzOTI0NCwzOTMwMzY3OTAsMTk2NDE5NzI0LDEwMDc4ND
+Y5NDAsMTE4NDQ2ODA4NCwxMzk5NTI3OTY5LC0xOTg0Njg5NTc3
+LDY4NzY4MTgxNCwxNzY5NzYyMjMxLC02NjY3NjE4MzRdfQ==
 -->
