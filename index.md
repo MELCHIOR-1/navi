@@ -853,9 +853,9 @@ input::-webkit-input-placeholder {
                     <!--获取内容列表-->
                     <div class="clearfix two-list-box">
                         <div class="col-md-3 col-sm-3 col-xs-6">
-                            <a href="https://chat.deepseek.com/" class="card-link" target="_blank">
-                            <div class="card-tit">DeepSeek</div>
-                            <div class="card-desc">Chat with DeepSeek AI.</div>
+                            <a href="https://lib.shutong121.com/" class="card-link" target="_blank">
+                            <div class="card-tit">Shutong</div>
+                            <div class="card-desc">CNKI and WanFang.</div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-6">
@@ -1022,7 +1022,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mjk4OTc5MiwtMjA2Mzc3MDk3MywtNz
+eyJoaXN0b3J5IjpbLTkxNDU5MTE4OSwtMjA2Mzc3MDk3MywtNz
 E1ODQ0NTA5LDI0NzE4MzcwLC00NzM0NTg0OTYsOTA1NDEwOTUw
 LDg3MTQzOTI0NCwzOTMwMzY3OTAsMTk2NDE5NzI0LDEwMDc4ND
 Y5NDAsMTE4NDQ2ODA4NCwxMzk5NTI3OTY5LC0xOTg0Njg5NTc3
