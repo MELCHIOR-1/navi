@@ -753,6 +753,7 @@ input::-webkit-input-placeholder {
                 <!--左侧目录，按照需要修改和添加，参考已有的修改名称和href-->
                 <li><a href="#row-1">Common</a></li>
                 <li><a href="#row-2">AI</a></li>
+                <li><a href="#row-3">Academic</a></li>
             </ul>
         </div>
     </div>
@@ -864,21 +865,6 @@ input::-webkit-input-placeholder {
                             <div class="card-desc">sci-hub</div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-sm-3 col-xs-6">
-                            <a href="https://ai-bot.cn/" class="card-link" target="_blank">
-                            <div class="card-tit"> Ai-bot</div>
-                            <div class="card-desc">AI工具集</div>
-                            </a>
-                        </div>
-                         <div class="col-md-3 col-sm-3 col-xs-6">
-                            <a href="https://devv.ai/zh" class="card-link" target="_blank">
-                            <div class="card-tit"> devv_</div>
-                            <div class="card-desc">最懂程序员的新一代 AI 搜索引擎</div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
             </section>
             
             <!--页脚-->
@@ -1022,9 +1008,10 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk4OTU0ODgsLTIwNjM3NzA5NzMsLT
-cxNTg0NDUwOSwyNDcxODM3MCwtNDczNDU4NDk2LDkwNTQxMDk1
-MCw4NzE0MzkyNDQsMzkzMDM2NzkwLDE5NjQxOTcyNCwxMDA3OD
-Q2OTQwLDExODQ0NjgwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3
-Nyw2ODc2ODE4MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbMTUzMDIwNjYzNCwtMTcxOTg5NTQ4OCwtMj
+A2Mzc3MDk3MywtNzE1ODQ0NTA5LDI0NzE4MzcwLC00NzM0NTg0
+OTYsOTA1NDEwOTUwLDg3MTQzOTI0NCwzOTMwMzY3OTAsMTk2ND
+E5NzI0LDEwMDc4NDY5NDAsMTE4NDQ2ODA4NCwxMzk5NTI3OTY5
+LC0xOTg0Njg5NTc3LDY4NzY4MTgxNCwxNzY5NzYyMjMxLC02Nj
+Y3NjE4MzRdfQ==
 -->
