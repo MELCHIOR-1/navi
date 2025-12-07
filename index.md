@@ -875,13 +875,13 @@ input::-webkit-input-placeholder {
                     <!--获取内容列表-->
                     <div class="clearfix two-list-box">
                         <div class="col-md-3 col-sm-3 col-xs-6">
-                            <a href="https://lib.shutong121.com/" class="card-link" target="_blank">
+                            <a href="https://pro.lceda.cn/editor/" class="card-link" target="_blank">
                             <div class="card-tit">JLC-EDA</div>
-                            <div class="card-desc">嘉立创EDA.</div>
+                            <div class="card-desc">嘉立创EDA专业版.</div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-6">
-                            <a href="https://pismin.com/" class="card-link" target="_blank">
+                            <a href="https://www.szlcsc.com/" class="card-link" target="_blank">
                             <div class="card-tit">SCI-HUB</div>
                             <div class="card-desc">sci-hub</div>
                             </a>
@@ -1030,10 +1030,10 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMjIzMDA4LDE1MzAyMDY2MzQsLTE3MT
-k4OTU0ODgsLTIwNjM3NzA5NzMsLTcxNTg0NDUwOSwyNDcxODM3
-MCwtNDczNDU4NDk2LDkwNTQxMDk1MCw4NzE0MzkyNDQsMzkzMD
-M2NzkwLDE5NjQxOTcyNCwxMDA3ODQ2OTQwLDExODQ0NjgwODQs
-MTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4MTQsMTc2OT
-c2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbLTY4NjkxNzgxMywxNTMwMjA2NjM0LC0xNz
+E5ODk1NDg4LC0yMDYzNzcwOTczLC03MTU4NDQ1MDksMjQ3MTgz
+NzAsLTQ3MzQ1ODQ5Niw5MDU0MTA5NTAsODcxNDM5MjQ0LDM5Mz
+AzNjc5MCwxOTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0
+LDEzOTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Nj
+k3NjIyMzEsLTY2Njc2MTgzNF19
 -->
