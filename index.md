@@ -882,8 +882,8 @@ input::-webkit-input-placeholder {
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-6">
                             <a href="https://www.szlcsc.com/" class="card-link" target="_blank">
-                            <div class="card-tit">SCI-HUB</div>
-                            <div class="card-desc">sci-hub</div>
+                            <div class="card-tit">LC@SC</div>
+                            <div class="card-desc">立创商城</div>
                             </a>
                         </div>
             </section>
@@ -1030,7 +1030,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjkxNzgxMywxNTMwMjA2NjM0LC0xNz
+eyJoaXN0b3J5IjpbLTU0MDQ5NDg1MCwxNTMwMjA2NjM0LC0xNz
 E5ODk1NDg4LC0yMDYzNzcwOTczLC03MTU4NDQ1MDksMjQ3MTgz
 NzAsLTQ3MzQ1ODQ5Niw5MDU0MTA5NTAsODcxNDM5MjQ0LDM5Mz
 AzNjc5MCwxOTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0
