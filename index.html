@@ -887,6 +887,12 @@ input::-webkit-input-placeholder {
                             <div class="card-desc">立创商城</div>
                             </a>
                         </div>
+		            <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://www.jlc.com/" class="card-link" target="_blank">
+                            <div class="card-tit">LC@SC</div>
+                            <div class="card-desc">立创商城</div>
+                            </a>
+                        </div>
             </section>
 
             
@@ -1031,10 +1037,11 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODI0MjM4LC01NDA0OTQ4NTAsMTUzMD
-IwNjYzNCwtMTcxOTg5NTQ4OCwtMjA2Mzc3MDk3MywtNzE1ODQ0
-NTA5LDI0NzE4MzcwLC00NzM0NTg0OTYsOTA1NDEwOTUwLDg3MT
-QzOTI0NCwzOTMwMzY3OTAsMTk2NDE5NzI0LDEwMDc4NDY5NDAs
-MTE4NDQ2ODA4NCwxMzk5NTI3OTY5LC0xOTg0Njg5NTc3LDY4Nz
-Y4MTgxNCwxNzY5NzYyMjMxLC02NjY3NjE4MzRdfQ==
+eyJoaXN0b3J5IjpbMTk4NDQ2MTE4MiwxODE4MjQyMzgsLTU0MD
+Q5NDg1MCwxNTMwMjA2NjM0LC0xNzE5ODk1NDg4LC0yMDYzNzcw
+OTczLC03MTU4NDQ1MDksMjQ3MTgzNzAsLTQ3MzQ1ODQ5Niw5MD
+U0MTA5NTAsODcxNDM5MjQ0LDM5MzAzNjc5MCwxOTY0MTk3MjQs
+MTAwNzg0Njk0MCwxMTg0NDY4MDg0LDEzOTk1Mjc5NjksLTE5OD
+Q2ODk1NzcsNjg3NjgxODE0LDE3Njk3NjIyMzEsLTY2Njc2MTgz
+NF19
 -->
