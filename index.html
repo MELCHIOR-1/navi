@@ -889,8 +889,8 @@ input::-webkit-input-placeholder {
                         </div>
 		            <div class="col-md-3 col-sm-3 col-xs-6">
                             <a href="https://www.jlc.com/" class="card-link" target="_blank">
-                            <div class="card-tit">LC@SC</div>
-                            <div class="card-desc">立创商城</div>
+                            <div class="card-tit">JLC</div>
+                            <div class="card-desc">嘉立创-PCB打板</div>
                             </a>
                         </div>
             </section>
@@ -1037,7 +1037,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDQ2MTE4MiwxODE4MjQyMzgsLTU0MD
+eyJoaXN0b3J5IjpbMjA1OTkzMTY4NSwxODE4MjQyMzgsLTU0MD
 Q5NDg1MCwxNTMwMjA2NjM0LC0xNzE5ODk1NDg4LC0yMDYzNzcw
 OTczLC03MTU4NDQ1MDksMjQ3MTgzNzAsLTQ3MzQ1ODQ5Niw5MD
 U0MTA5NTAsODcxNDM5MjQ0LDM5MzAzNjc5MCwxOTY0MTk3MjQs
