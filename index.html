@@ -866,6 +866,28 @@ input::-webkit-input-placeholder {
                             </a>
                         </div>
             </section>
+             <section class="item card-box" id="row-3">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="item-tit">
+                        <strong>Academic</strong>
+                    </div>
+                    <!--获取内容列表-->
+                    <div class="clearfix two-list-box">
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://lib.shutong121.com/" class="card-link" target="_blank">
+                            <div class="card-tit">Shutong</div>
+                            <div class="card-desc">CNKI and WanFang.</div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-6">
+                            <a href="https://pismin.com/" class="card-link" target="_blank">
+                            <div class="card-tit">SCI-HUB</div>
+                            <div class="card-desc">sci-hub</div>
+                            </a>
+                        </div>
+            </section>
+
             
             <!--页脚-->
             <footer class="footer">
@@ -1008,10 +1030,10 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDIwNjYzNCwtMTcxOTg5NTQ4OCwtMj
-A2Mzc3MDk3MywtNzE1ODQ0NTA5LDI0NzE4MzcwLC00NzM0NTg0
-OTYsOTA1NDEwOTUwLDg3MTQzOTI0NCwzOTMwMzY3OTAsMTk2ND
-E5NzI0LDEwMDc4NDY5NDAsMTE4NDQ2ODA4NCwxMzk5NTI3OTY5
-LC0xOTg0Njg5NTc3LDY4NzY4MTgxNCwxNzY5NzYyMjMxLC02Nj
-Y3NjE4MzRdfQ==
+eyJoaXN0b3J5IjpbMTg0MzQwOTEwMywxNTMwMjA2NjM0LC0xNz
+E5ODk1NDg4LC0yMDYzNzcwOTczLC03MTU4NDQ1MDksMjQ3MTgz
+NzAsLTQ3MzQ1ODQ5Niw5MDU0MTA5NTAsODcxNDM5MjQ0LDM5Mz
+AzNjc5MCwxOTY0MTk3MjQsMTAwNzg0Njk0MCwxMTg0NDY4MDg0
+LDEzOTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Nj
+k3NjIyMzEsLTY2Njc2MTgzNF19
 -->
