@@ -876,7 +876,7 @@ input::-webkit-input-placeholder {
                     <!--获取内容列表-->
                     <div class="clearfix two-list-box">
                         <div class="col-md-3 col-sm-3 col-xs-6">
-                            <a href="https://pro.lceda.cn/editor/" class="card-link" target="_blank">
+                            <a href="https://lceda.cn/" class="card-link" target="_blank">
                             <div class="card-tit">JLC-EDA</div>
                             <div class="card-desc">嘉立创EDA专业版.</div>
                             </a>
@@ -1037,11 +1037,11 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTkzMTY4NSwxODE4MjQyMzgsLTU0MD
-Q5NDg1MCwxNTMwMjA2NjM0LC0xNzE5ODk1NDg4LC0yMDYzNzcw
-OTczLC03MTU4NDQ1MDksMjQ3MTgzNzAsLTQ3MzQ1ODQ5Niw5MD
-U0MTA5NTAsODcxNDM5MjQ0LDM5MzAzNjc5MCwxOTY0MTk3MjQs
-MTAwNzg0Njk0MCwxMTg0NDY4MDg0LDEzOTk1Mjc5NjksLTE5OD
-Q2ODk1NzcsNjg3NjgxODE0LDE3Njk3NjIyMzEsLTY2Njc2MTgz
-NF19
+eyJoaXN0b3J5IjpbNDg3ODk3OTA2LDIwNTk5MzE2ODUsMTgxOD
+I0MjM4LC01NDA0OTQ4NTAsMTUzMDIwNjYzNCwtMTcxOTg5NTQ4
+OCwtMjA2Mzc3MDk3MywtNzE1ODQ0NTA5LDI0NzE4MzcwLC00Nz
+M0NTg0OTYsOTA1NDEwOTUwLDg3MTQzOTI0NCwzOTMwMzY3OTAs
+MTk2NDE5NzI0LDEwMDc4NDY5NDAsMTE4NDQ2ODA4NCwxMzk5NT
+I3OTY5LC0xOTg0Njg5NTc3LDY4NzY4MTgxNCwxNzY5NzYyMjMx
+XX0=
 -->
